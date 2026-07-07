@@ -1,2 +1,28 @@
-# 357c84d2-interior-design-staging-comp
-Stop manually copying data between apps and rebuilding the same process every time. Start fully automated pipeline that runs while you sleep.  Built for production: error handling, retry logic, and failure notifications included. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Interior Design &amp; Stag
+# Interior Design & Staging Competitor Monitoring and Alert N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A28rbHhf6QaNOcDWcZG1x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A28rbHhf6QaNOcDWcZG1x)
+
